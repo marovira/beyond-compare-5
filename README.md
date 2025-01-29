@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Beyond Compare 5](https://www.scootersoftware.com/download.php)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Beyond Compare 5](https://www.scootersoftware.com/download.php).
 
 ![Screenshot](./screenshot.png)
 
